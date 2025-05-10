@@ -1,7 +1,12 @@
 {
-    "users": [
+  "users": [
     {
-      "password": "fanzzdev"
+      "number": "6283195439759",
+      "password": "FanzzHost"
+    },
+    {
+      "number": "6289876543210",
+      "password": "katakunci456"
     }
   ]
 }
